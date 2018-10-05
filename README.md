@@ -1,2 +1,2 @@
 # TheseCollect
-An App to get doctorat theses and masters themes 
+An App to create a database of doctorat theses and masters themes around the world 
